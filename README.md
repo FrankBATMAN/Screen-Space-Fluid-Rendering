@@ -2,8 +2,8 @@
 * render the screnn-space(visible) of the fluids.
 * soomth method : Curvature Flow
 * reflection & refraction : Cubmap
-* Video Demo: https://vimeo.com/206511317
-* ScreenShots below
+* demo: https://vimeo.com/206511317
+* screenShots below
 
 
 ![FluidRendering_A] (https://github.com/FrankBATMAN/Screen-Space-Fluid-Rendering/blob/master/ScreenShots/FluidRendering_A.bmp)
