@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="shader">
+      <UniqueIdentifier>{086c84a6-dc89-4d6b-8e84-f9c976bbc03e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Cubemap Files">
+      <UniqueIdentifier>{b0799323-7267-41d8-99da-1760163531cc}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Shader.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UseFBO.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="FluidRender.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Cubemap.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Shader.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="datastruct.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ParticlesData.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="UseFBO.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="FluidRender.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Cubemap.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pointV.glsl">
+      <Filter>shader</Filter>
+    </None>
+    <None Include="planeV.glsl">
+      <Filter>shader</Filter>
+    </None>
+    <None Include="planeF.glsl">
+      <Filter>shader</Filter>
+    </None>
+    <None Include="curvatureFlowF.glsl">
+      <Filter>shader</Filter>
+    </None>
+    <None Include="ClassDiagram.cd" />
+    <None Include="averageNormalF.glsl">
+      <Filter>shader</Filter>
+    </None>
+    <None Include="normalF.glsl">
+      <Filter>shader</Filter>
+    </None>
+    <None Include="depthF.glsl">
+      <Filter>shader</Filter>
+    </None>
+    <None Include="thicknessF.glsl">
+      <Filter>shader</Filter>
+    </None>
+    <None Include="compositeF.glsl">
+      <Filter>shader</Filter>
+    </None>
+    <None Include="cubemapV.glsl">
+      <Filter>shader</Filter>
+    </None>
+    <None Include="cubemapF.glsl">
+      <Filter>shader</Filter>
+    </None>
+    <None Include="..\Content\vendetta-cove_bk.tga">
+      <Filter>Cubemap Files</Filter>
+    </None>
+    <None Include="..\Content\vendetta-cove_dn.tga">
+      <Filter>Cubemap Files</Filter>
+    </None>
+    <None Include="..\Content\vendetta-cove_ft.tga">
+      <Filter>Cubemap Files</Filter>
+    </None>
+    <None Include="..\Content\vendetta-cove_lf.tga">
+      <Filter>Cubemap Files</Filter>
+    </None>
+    <None Include="..\Content\vendetta-cove_rt.tga">
+      <Filter>Cubemap Files</Filter>
+    </None>
+    <None Include="..\Content\vendetta-cove_up.tga">
+      <Filter>Cubemap Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>
