@@ -1,7 +1,12 @@
 # Screen-Space-Fluid-Rendering
+
 * render the screnn-space(visible) of the fluids.
 * soomth method : Curvature Flow
 * reflection & refraction : Cubemap
+
+* skills: OpenGL, GLSL, C++
+* period: Aug. 2015 - Sept. 2015
+
 * demo: https://vimeo.com/206511317
 * screenshots below
 
