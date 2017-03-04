@@ -1,7 +1,7 @@
 # Screen-Space-Fluid-Rendering
 
 * render the screnn-space(visible) of the fluids
-* soomth method: Curvature Flow
+* soomthing: **Curvature Flow**
 * reflection & refraction: **Cubemap**
 
 * skills: OpenGL, GLSL, C++
