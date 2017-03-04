@@ -5,10 +5,9 @@
 * reflection & refraction : Cubemap
 
 * skills: OpenGL, GLSL, C++
-* period: Aug. 2015 - Sept. 2015
 
 * demo: https://vimeo.com/206511317
-* screenshots below
+* screenshots
 
 
 ![FluidRendering_A] (https://github.com/FrankBATMAN/Screen-Space-Fluid-Rendering/blob/master/ScreenShots/FluidRendering_A.bmp)
