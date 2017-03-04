@@ -3,7 +3,7 @@
 * soomth method : Curvature Flow
 * reflection & refraction : Cubmap
 * demo: https://vimeo.com/206511317
-* screenShots below
+* screenshots below
 
 
 ![FluidRendering_A] (https://github.com/FrankBATMAN/Screen-Space-Fluid-Rendering/blob/master/ScreenShots/FluidRendering_A.bmp)
