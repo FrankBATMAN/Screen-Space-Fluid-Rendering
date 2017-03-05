@@ -8,7 +8,6 @@
 
 * demo: 
  * https://vimeo.com/206511317 may (have trouble accessing from mainland China)
-
  * OR
  * https://frankbatman.wistia.com/medias/l5mr3aatno#
 * screenshots
